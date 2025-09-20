@@ -1,15 +1,15 @@
-#Movie Recommendation System
+# Movie Recommendation System
 
 This project is a Netflix Movie Recommendation System built with Laravel.
 It provides movie recommendations using two main algorithms:
 
-##Apriori Algorithm
+## Apriori Algorithm
 
 Analyzes relationships between movie genres.
 
 Generates association rules with support and confidence to recommend movies similar to what a user has watched.
 
-##KMeans Algorithm
+## KMeans Algorithm
 
 Clusters movies based on numeric features like release year, rating, and duration.
 
